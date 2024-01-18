@@ -25,3 +25,4 @@ yarn-error.log*
 *.cache
 .firebaserc
 /src/components/firebase.js
+src/components/firebase.js
