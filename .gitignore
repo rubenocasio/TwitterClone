@@ -24,4 +24,4 @@ yarn-error.log*
 .eslintcache
 *.cache
 .firebaserc
-src/components/firebase.js
+/src/components/firebase.js
